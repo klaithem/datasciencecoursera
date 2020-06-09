@@ -1,0 +1,1177 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-BmnGTzITfSCD9SKlVfngZdzNq8Fa33lRq00rF1eRsg4zcCH3VtX8QtS6687+5GdeaVj1LzKyLj6+oXJLcswj6w==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-0669c64f32137d2083f522a555f9e065.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-IX5BoM4/CZcF+rw+yhDLhCjHTA1gz+F8rA3dQU3p7CFWAx1qGb+MVztQXTLG7jyLCn2kDGNZkp3pHjbL9Ac4kw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-217e41a0ce3f099705fabc3eca10cb84.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-HLwpPbjGriZxrqP35jpzSDUnScRZWkUrw9j49/HFXvQ4a6KfUA9gbcbCe/WLt3UaTYM+mnP4MtvwCmlvDuisdQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-1cbc293db8c6ae2671aea3f7e63a7348.css" />
+    
+    
+    
+    
+
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>GitHub - jtleek/datasharing: The Leek group guide to data sharing</title>
+    <meta name="description" content="The Leek group guide to data sharing . Contribute to jtleek/datasharing development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/1571674?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="jtleek/datasharing" /><meta name="twitter:description" content="The Leek group guide to data sharing . Contribute to jtleek/datasharing development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/1571674?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jtleek/datasharing" /><meta property="og:url" content="https://github.com/jtleek/datasharing" /><meta property="og:description" content="The Leek group guide to data sharing . Contribute to jtleek/datasharing development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+
+  <meta name="request-id" content="D64B:ECFD:3981B9:4D8DC5:5EDFA691" data-pjax-transient="true"/><meta name="html-safe-nonce" content="2d21af27f1ecfe09ab34f4163b9a5af83252dc1b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENjRCOkVDRkQ6Mzk4MUI5OjREOERDNTo1RURGQTY5MSIsInZpc2l0b3JfaWQiOiI3NzQ2MjgzMzcxNzUzMzUwODAyIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiYW1zIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="1080617463deedfc3c39d9dced1187471893d00172c04667ae540f72cfbfea6f" data-pjax-transient="true"/>
+
+
+
+  <meta name="github-keyboard-shortcuts" content="repository" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+  <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+<meta name="optimizely-sdk-key" content="cowimJNste4j7QnBNCjaw" />
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+
+      <meta name="expected-hostname" content="github.com">
+
+
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_CHUNKING">
+
+  <meta http-equiv="x-pjax-version" content="b62c237c2a6ab551f32581f090807d5b">
+  
+
+      <link href="https://github.com/jtleek/datasharing/commits/master.atom" rel="alternate" title="Recent Commits to datasharing:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/jtleek/datasharing git https://github.com/jtleek/datasharing.git">
+
+  <meta name="octolytics-dimension-user_id" content="1571674" /><meta name="octolytics-dimension-user_login" content="jtleek" /><meta name="octolytics-dimension-repository_id" content="14204342" /><meta name="octolytics-dimension-repository_nwo" content="jtleek/datasharing" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="14204342" /><meta name="octolytics-dimension-repository_network_root_nwo" content="jtleek/datasharing" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/jtleek/datasharing" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production min-width-lg">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+      <span class="Progress progress-pjax-loader position-fixed width-full js-pjax-loader-bar">
+        <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
+      </span>
+
+      
+      
+
+
+
+          <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+  <div class="container-lg d-flex px-3">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        </a>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-none">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0" aria-label="Global">
+          <ul class="d-flex list-style-none">
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0  p-4 left-n4 position-absolute">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
+                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
+                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
+                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a></li>
+                      <li class="edge-item-fix"><a href="/features/packages" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Packages">Packages</a></li>
+                      <li class="edge-item-fix"><a href="/features/security" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Security">Security</a></li>
+                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
+                      <li class="edge-item-fix"><a href="/features#hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Hosting</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+              <li class=" mr-3 mr-lg-3">
+                <a href="/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Team">Team</a>
+              </li>
+              <li class=" mr-3 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0  p-4 left-n4 position-absolute">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2  border-top pt-3">Learn &amp; contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
+                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2  border-top pt-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class=" mr-3 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0  p-4 left-n4 position-absolute">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans</a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0  border-top pt-3">
+                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+          <div class="d-lg-flex ">
+            <div class="header-search header-search-current js-header-search-current mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="14204342" data-scoped-search-url="/jtleek/datasharing/search" data-unscoped-search-url="/search" action="/jtleek/datasharing/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="7b+cXdrp02sZ4fczJM0savmRDaj7ZI2uBs5tmvELXqqwJlvRhOKHx7OoInF+OIBW2y2C+WxFkTHgWfmL/73j4g==" />
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <a href="/login?return_to=%2Fjtleek%2Fdatasharing"
+          class="HeaderMenu-link no-underline mr-3"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a364330065341119a993290f0b55c85f3b4899c47c708de3edb3f6336f3e91dd"
+          data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+          Sign&nbsp;in
+        </a>
+            <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source_repo=jtleek%2Fdatasharing"
+              class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a364330065341119a993290f0b55c85f3b4899c47c708de3edb3f6336f3e91dd"
+              data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;;ref_cta:Sign up;ref_loc:header logged out">
+              Sign&nbsp;up
+            </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+    <div id="js-flash-container">
+
+
+  <template class="js-flash-template">
+    <div class="flash flash-full  js-flash-template-container">
+  <div class="container-lg px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    
+      <div class="js-flash-template-message"></div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+      
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" data-pjax-container >
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead hx_repohead readability-menu bg-gray-light pb-0 pt-3">
+
+    <div class="d-flex container-lg mb-4 px-3">
+
+      <div class="flex-auto min-width-0 width-fit mr-3">
+        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
+  <span class="flex-self-stretch" style="margin-top: -2px;">
+      <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  </span>
+  <span class="author ml-2 flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/jtleek/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jtleek">jtleek</a>
+  </span>
+  <span class="path-divider flex-self-stretch">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#js-repo-pjax-container" href="/jtleek/datasharing">datasharing</a>
+  </strong>
+  
+</h1>
+
+
+      </div>
+
+      <ul class="pagehead-actions flex-shrink-0 " >
+
+
+
+
+  <li>
+    
+
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47b8f843b6cc74b98db055bd66ea0dc2d83d84e465ffa68aa4ffdded78b9688e" href="/login?return_to=%2Fjtleek%2Fdatasharing">
+    <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+    Watch
+</a>    <a class="social-count" href="/jtleek/datasharing/watchers"
+       aria-label="582 users are watching this repository">
+      582
+    </a>
+
+  </li>
+
+  <li>
+        <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:14204342,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7dadf010722b8762bf33529fe9b0a5d23ec6d6efc6804929feaeae62b5e1bf06" href="/login?return_to=%2Fjtleek%2Fdatasharing">
+      <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+
+      Star
+</a>
+    <a class="social-count js-social-count" href="/jtleek/datasharing/stargazers"
+      aria-label="5234 users starred this repository">
+      5.2k
+    </a>
+
+  </li>
+
+  <li>
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:14204342,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4114cfee55b17ccb0f579d855957178cd716e0c09487cb2638ec7d4abdbed649" href="/login?return_to=%2Fjtleek%2Fdatasharing">
+        <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+        Fork
+</a>
+    <a href="/jtleek/datasharing/network/members" class="social-count"
+       aria-label="211796 users forked this repository">
+      212k
+    </a>
+  </li>
+</ul>
+
+    </div>
+      <nav class="js-repo-nav js-sidenav-container-pjax clearfix hx_reponav reponav px-3 container-lg"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+  <ul class="list-style-none">
+    <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /jtleek/datasharing" href="/jtleek/datasharing">
+        <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg></div>
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </li>
+
+      <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /jtleek/datasharing/issues" href="/jtleek/datasharing/issues">
+          <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></div>
+          <span itemprop="name">Issues</span>
+          <span class="Counter">99</span>
+          <meta itemprop="position" content="2">
+</a>      </li>
+
+    <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /jtleek/datasharing/pulls" href="/jtleek/datasharing/pulls">
+        <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg></div>
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">481</span>
+        <meta itemprop="position" content="4">
+</a>    </li>
+
+
+      <li itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left ">
+        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /jtleek/datasharing/actions" href="/jtleek/datasharing/actions">
+          <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"></path></svg></div>
+          Actions
+</a>
+      </li>
+
+      <li >
+        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /jtleek/datasharing/projects" href="/jtleek/datasharing/projects">
+          <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg></div>
+          Projects
+          <span class="Counter">0</span>
+</a>      </li>
+
+      <li >
+        <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /jtleek/datasharing/wiki" href="/jtleek/datasharing/wiki">
+          <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path></svg></div>
+          Wiki
+</a>      </li>
+
+      <li >
+        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /jtleek/datasharing/security" href="/jtleek/datasharing/security">
+          <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"></path></svg></div>
+          Security
+              <span class="Counter js-security-tab-count" data-url="/jtleek/datasharing/security/overall-count" hidden></span>
+</a>      </li>
+
+      <li >
+        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /jtleek/datasharing/pulse" href="/jtleek/datasharing/pulse">
+          <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg></div>
+          Insights
+</a>      </li>
+
+
+  </ul>
+</nav>
+
+
+  </div>
+
+
+<div class="container-lg clearfix new-discussion-timeline  px-3">
+  <div class="repository-content ">
+
+    
+    
+  <div class="d-none d-lg-block mt-6 mr-3 Popover top-0 right-0 box-shadow-medium col-3">
+    
+  </div>
+
+    <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
+    <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+      <div class="position-relative">
+        <button
+          type="button"
+          class="position-absolute top-0 right-0 btn-link link-gray"
+          data-action="click:signup-prompt-controller#dismiss"
+          data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss"
+        >
+          Dismiss
+        </button>
+        <h3 class="pt-2">Join GitHub today</h3>
+        <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="483c70e1daeed0da8faf8b97e65f7f1da6cb61eca79b44b0e239c35707d7bde0" href="/join?source=prompt-code&amp;source_repo=jtleek%2Fdatasharing">Sign up</a>
+      </div>
+    </div>
+  </signup-prompt-controller>
+
+
+
+      <div class="mb-3">  <div class="f4">
+        <span class="text-gray-dark mr-2" itemprop="about">
+          The Leek group guide to data sharing 
+        </span>
+  </div>
+</div>
+
+
+
+
+      <div class="overall-summary">
+    <ul class="numbers-summary">
+      <li class="commits">
+        <a data-pjax href="/jtleek/datasharing/commits/master">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"></path></svg>
+            <span class="num text-emphasized">
+              29
+            </span>
+            commits
+        </a>
+      </li>
+      <li>
+        <a data-pjax href="/jtleek/datasharing/branches">
+          <svg class="octicon octicon-git-branch" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 00-1-3.72C.88 1 0 1.89 0 3a2 2 0 001 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+          <span class="num text-emphasized">
+            1
+          </span>
+          branch
+        </a>
+      </li>
+
+        <li>
+          <a data-pjax href="/jtleek/datasharing/packages" data-ga-click="Repository, packages click, location:repo overview">
+            <svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 00-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"></path></svg>
+            <span class="num text-emphasized">
+              0
+            </span>
+            packages
+          </a>
+
+        </li>
+
+      <li>
+        <a href="/jtleek/datasharing/releases">
+          <svg class="octicon octicon-tag" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 000-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"></path></svg>
+          <span class="num text-emphasized">
+            0
+          </span>
+          releases
+        </a>
+      </li>
+
+        <li >
+            <a href="/jtleek/datasharing/graphs/contributors">
+  <svg class="octicon octicon-organization" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 12.999c0 .439-.45 1-1 1H7.995c-.539 0-.994-.447-.995-.999H1c-.54 0-1-.561-1-1 0-2.634 3-4 3-4s.229-.409 0-1c-.841-.621-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.442.58 2.5 3c.058 2.41-.159 2.379-1 3-.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229-.409 0-1c-.841-.62-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.437.581 2.495 3c.059 2.41-.158 2.38-1 3-.229.59 0 1 0 1s3.005 1.366 3.005 4z"></path></svg>
+    <span class="num text-emphasized">
+      10
+    </span>
+    contributors
+</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+
+
+
+
+
+<div class="file-navigation in-mid-page mb-2 d-flex flex-items-start">
+  
+<details class="details-reset details-overlay branch-select-menu " id="branch-select-menu">
+  <summary class="btn css-truncate btn-sm"
+           data-hotkey="w"
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target" data-menu-button>master</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/jtleek/datasharing/refs/master?source_action=disambiguate&amp;source_controller=files" preload>
+    <div class="SelectMenu-modal">
+      <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
+        <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
+      </include-fragment>
+    </div>
+  </details-menu>
+</details>
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn ml-2" aria-label="You must be signed in to create a pull request">
+          New pull request
+        </button>
+
+  <div class="breadcrumb flex-auto">
+    
+  </div>
+
+    <div class="BtnGroup ml-2">
+
+      <a class="btn btn-sm empty-icon float-right BtnGroup-item" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:14204342,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d8c34ae78443e982604bee8190ee5edf9d413e6e77d7c2197ccbfaaa81707590" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/jtleek/datasharing/find/master">Find file</a>
+    </div>
+
+
+    <span class="d-flex">
+        
+
+          
+<get-repo-controller>
+  <details class="position-relative details-overlay details-reset" data-action="toggle:get-repo-controller#onDetailsToggle">
+    <summary class="btn btn-sm ml-2 btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:14204342,&quot;target&quot;:&quot;CLONE_OR_DOWNLOAD_BUTTON&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a509e83a548ba4c69ac2cb49d24a88c83a1304a86d5664a399b7b5f139f09cff">
+        Clone or download
+      <span class="dropdown-caret"></span>
+</summary>    <div class="position-relative">
+      <div class="get-repo-modal dropdown-menu dropdown-menu-sw pb-0 js-toggler-container " style="top:6px;width:352px;">
+
+        <div data-target="get-repo-controller.modal">
+            <div class="clone-options https-clone-options">
+
+              <h4 class="mb-1">
+                Clone with HTTPS
+                <a class="muted-link" href="https://help.github.com/articles/which-remote-url-should-i-use" target="_blank" title="Which remote URL should I use?">
+                  <svg class="octicon octicon-question" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 10h2v2H6v-2zm4-3.5C10 8.64 8 9 8 9H6c0-.55.45-1 1-1h.5c.28 0 .5-.22.5-.5v-1c0-.28-.22-.5-.5-.5h-1c-.28 0-.5.22-.5.5V7H4c0-1.5 1.5-3 3-3s3 1 3 2.5zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7z"></path></svg>
+                </a>
+              </h4>
+              <p class="mb-2 get-repo-decription-text">
+                Use Git or checkout with SVN using the web URL.
+              </p>
+
+              <div class="input-group">
+  <input type="text" class="form-control input-monospace input-sm" data-autoselect value="https://github.com/jtleek/datasharing.git" aria-label="Clone this repository at https://github.com/jtleek/datasharing.git" readonly>
+  <div class="input-group-button">
+    <clipboard-copy value="https://github.com/jtleek/datasharing.git" aria-label="Copy to clipboard" class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;REPOSITORY&quot;,&quot;repository_id&quot;:14204342,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e784fc65c25c6d5c45690246f25733d5a05bbe4cb458bb192981f1553661d4f1"><svg class="octicon octicon-clippy" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></clipboard-copy>
+  </div>
+</div>
+
+            </div>
+
+          <div class="mt-2 d-flex">
+            <a class="btn btn-outline get-repo-btn tooltipped tooltipped-s tooltipped-multiline js-remove-unless-platform" aria-label="Clone jtleek/datasharing to your computer and use it in GitHub Desktop." data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;REPOSITORY&quot;,&quot;repository_id&quot;:14204342,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0522f4b4f64aeaed241f06467a537e174c188890325fb7d9c64eac846e579fe4" data-platforms="windows,mac" data-action="click:get-repo-controller#showDownloadMessage" href="https://desktop.github.com">Open in Desktop</a>
+
+<a class="flex-1 btn btn-outline get-repo-btn" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;REPOSITORY&quot;,&quot;repository_id&quot;:14204342,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2c50c734e7eb6566bb02fb4c723c2bb41181d6bd510929036acde375feae06dc" data-ga-click="Repository, download zip, location:repo overview" data-open-app="link" data-action="click:get-repo-controller#showDownloadMessage" href="/jtleek/datasharing/archive/master.zip">Download ZIP</a>
+
+          </div>
+        </div>
+
+          <div data-target="get-repo-controller.platforms" data-platform="link" hidden>
+            <div class="py-2 px-3">
+              <h4 class="lh-condensed mb-3">Downloading<span class="AnimatedEllipsis"></span></h4>
+              <p class="text-gray">
+                Want to be notified of new releases in
+                <span class="text-bold">jtleek/datasharing</span>?
+              </p>
+            </div>
+            <div class="width-full d-flex">
+              <a rel="nofollow" class="get-repo-btn btn btn-outline" style="width: 50%" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;download popover&quot;,&quot;repository_id&quot;:14204342,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="65ae8042a20132b531781312cdf026540f2e0a5f48d87b447cbee26ab24d3a71" href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjtleek%2Fdatasharing">Sign in</a>
+              <a rel="nofollow" class="get-repo-btn btn btn-primary" style="width: 50%" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;download popover&quot;,&quot;repository_id&quot;:14204342,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/jtleek/datasharing&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="840e1cd968c83eda35d504f1452e9cceb8005b96063bc9bc4c27ccd670a3a7cb" href="/join?branch=master&amp;source=download&amp;source_repo=jtleek%2Fdatasharing">Sign up</a>
+            </div>
+          </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="mac" hidden>
+          <h4 class="lh-condensed mb-3">Launching GitHub Desktop<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://desktop.github.com/">download GitHub Desktop</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="windows" hidden>
+          <h4 class="lh-condensed mb-3">Launching GitHub Desktop<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://desktop.github.com/">download GitHub Desktop</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="xcode" hidden>
+          <h4 class="lh-condensed mb-3">Launching Xcode<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://developer.apple.com/xcode/">download Xcode</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="visual-studio" hidden>
+          <h4 class="lh-condensed mb-3">Launching Visual Studio<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://visualstudio.github.com/">download the GitHub extension for Visual Studio</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+      </div>
+    </div>
+  </details>
+</get-repo-controller>
+
+
+    </span>
+</div>
+
+
+
+
+<div class="Box mb-3 Box--condensed">
+  <div class="Box-header Box-header--blue position-relative "
+    style="margin-bottom:-1px;">
+    <h2 class="sr-only">Latest commit</h2>
+    <div class="commit-tease js-details-container Details d-flex rounded-top-1 flex-auto min-width-0" data-issue-and-pr-hovercards-enabled>
+        
+    
+<div class="AvatarStack flex-self-start ">
+  <div class="AvatarStack-body" aria-label="jtleek">
+        <a class="avatar avatar-user" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/jtleek/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jtleek">
+          <img height="20" width="20" alt="@jtleek" src="https://avatars0.githubusercontent.com/u/1571674?s=60&amp;u=c9698e3d4db46b4e8b0253b011ae2b90479aea93&amp;v=4" class=" avatar-user" />
+</a>  </div>
+</div>
+
+    <div class="flex-auto f6 mr-3 min-width-0">
+      
+      <a href="/jtleek/datasharing/commits?author=jtleek"
+     class="commit-author tooltipped tooltipped-s user-mention"
+     aria-label="View all commits by jtleek">jtleek</a>
+
+
+  
+
+
+        <a data-pjax="true" title="Merge pull request #464 from Amherst-Statistics/master
+
+Offered suggestions to Jeff for the TAS DSS submission" class="message text-inherit" href="/jtleek/datasharing/commit/df97230f037c212d8a07cdaf9216348c63644c9b">Merge pull request</a> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="187570920" data-permission-text="Title is private" data-url="https://github.com/jtleek/datasharing/issues/464" data-hovercard-type="pull_request" data-hovercard-url="/jtleek/datasharing/pull/464/hovercard" href="https://github.com/jtleek/datasharing/pull/464">#464</a> <a data-pjax="true" title="Merge pull request #464 from Amherst-Statistics/master
+
+Offered suggestions to Jeff for the TAS DSS submission" class="message text-inherit" href="/jtleek/datasharing/commit/df97230f037c212d8a07cdaf9216348c63644c9b">from Amherst-Statistics/master</a>
+          <span class="hidden-text-expander inline">
+            <button type="button" class="ellipsis-expander js-details-target" aria-expanded="false">&hellip;</button>
+          </span>
+
+        <div class="commit-desc"><pre class="text-small">Offered suggestions to Jeff for the TAS DSS submission</pre></div>
+    </div>
+      <a class="no-wrap muted-link text-inherit commit-tease-comments" href="/jtleek/datasharing/commit/df97230f037c212d8a07cdaf9216348c63644c9b" anchor="comments" data-pjax>
+        <svg class="octicon octicon-comment" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 2.5C2.6837 2.5 2.62011 2.52634 2.57322 2.57322C2.52634 2.62011 2.5 2.6837 2.5 2.75V10.25C2.5 10.388 2.612 10.5 2.75 10.5H4.75C4.94891 10.5 5.13968 10.579 5.28033 10.7197C5.42098 10.8603 5.5 11.0511 5.5 11.25V13.44L8.22 10.72C8.36052 10.5793 8.55115 10.5002 8.75 10.5H13.25C13.3163 10.5 13.3799 10.4737 13.4268 10.4268C13.4737 10.3799 13.5 10.3163 13.5 10.25V2.75C13.5 2.6837 13.4737 2.62011 13.4268 2.57322C13.3799 2.52634 13.3163 2.5 13.25 2.5H2.75ZM1 2.75C1 1.784 1.784 1 2.75 1H13.25C14.216 1 15 1.784 15 2.75V10.25C15 10.7141 14.8156 11.1592 14.4874 11.4874C14.1592 11.8156 13.7141 12 13.25 12H9.06L6.487 14.573C6.28324 14.7767 6.02367 14.9153 5.74111 14.9715C5.45854 15.0277 5.16567 14.9988 4.8995 14.8886C4.63333 14.7784 4.40581 14.5917 4.24571 14.3522C4.08561 14.1127 4.0001 13.8311 4 13.543V12H2.75C2.28587 12 1.84075 11.8156 1.51256 11.4874C1.18437 11.1592 1 10.7141 1 10.25V2.75Z"></path></svg>
+        3
+      </a>
+    <div class="no-wrap d-flex flex-self-start flex-items-baseline">
+        <span class="mr-2 flex-self-center">
+          <include-fragment accept="text/fragment+html" src="/jtleek/datasharing/commit/df97230f037c212d8a07cdaf9216348c63644c9b/rollup?direction=w" class="d-inline"></include-fragment>
+        </span>
+      <span class="mr-1">Latest commit</span>
+      <a class="commit-tease-sha mr-1" href="/jtleek/datasharing/commit/df97230f037c212d8a07cdaf9216348c63644c9b" data-pjax>
+        df97230
+      </a>
+      <span itemprop="dateModified"><relative-time datetime="2016-11-08T19:44:57Z" class="no-wrap">Nov 9, 2016</relative-time></span>
+    </div>
+    </div>
+  </div>
+  <h2 id="files"  class="sr-only">Files</h2>
+  
+
+
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/jtleek/datasharing/tree/df97230f037c212d8a07cdaf9216348c63644c9b">Permalink</a>
+
+    <table class="files js-navigation-container js-active-navigation-container " data-pjax>
+      <thead>
+        <tr>
+          <th><span class="sr-only">Type</span></th>
+          <th><span class="sr-only">Name</span></th>
+          <th><span class="sr-only">Latest commit message</span></th>
+          <th><span class="sr-only">Commit time</span></th>
+        </tr>
+      </thead>
+
+
+      <tbody>
+        <tr class="warning include-fragment-error">
+          <td class="icon"><svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></td>
+          <td class="content" colspan="3">Failed to load latest commit information.</td>
+        </tr>
+
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="README.md" id="04c6e90faac2675aa89e2176d2eec7d8-5f77227950506a41e65a227d78f1dda63adbcb68" href="/jtleek/datasharing/blob/master/README.md">README.md</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Offered suggestions to Jeff for the TAS DSS submission." class="link-gray" href="/jtleek/datasharing/commit/305c199c74131a646f61c54a9d5857eaa9b93435">Offered suggestions to Jeff for the TAS DSS submission.</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2016-11-06T16:09:46Z" class="no-wrap">Nov 6, 2016</time-ago></span>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+
+
+
+</div>
+
+  <div id="readme" class="Box md js-code-block-container Box--condensed">
+    <div class="Box-header d-flex flex-items-center flex-justify-between ">
+      <h2 class="Box-title pr-3">
+        <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path></svg>
+        README.md
+      </h2>
+    </div>
+      <div class="Box-body p-5">
+        <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-how-to-share-data-with-a-statistician" class="anchor" aria-hidden="true" href="#how-to-share-data-with-a-statistician"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>How to share data with a statistician</h1>
+<p>This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:</p>
+<ul>
+<li>Collaborators who need statisticians or data scientists to analyze data for them</li>
+<li>Students or postdocs in various disciplines looking for consulting advice</li>
+<li>Junior statistics students whose job it is to collate/clean/wrangle data sets</li>
+</ul>
+<p>The goals of this guide are to provide some instruction on the best way to share data to avoid the most common pitfalls
+and sources of delay in the transition from data collection to data analysis. The <a href="http://biostat.jhsph.edu/~jleek/" rel="nofollow">Leek group</a> works with a large
+number of collaborators and the number one source of variation in the speed to results is the status of the data
+when they arrive at the Leek group. Based on my conversations with other statisticians this is true nearly universally.</p>
+<p>My strong feeling is that statisticians should be able to handle the data in whatever state they arrive. It is important
+to see the raw data, understand the steps in the processing pipeline, and be able to incorporate hidden sources of
+variability in one's data analysis. On the other hand, for many data types, the processing steps are well documented
+and standardized. So the work of converting the data from raw form to directly analyzable form can be performed
+before calling on a statistician. This can dramatically speed the turnaround time, since the statistician doesn't
+have to work through all the pre-processing steps first.</p>
+<h1><a id="user-content-what-you-should-deliver-to-the-statistician" class="anchor" aria-hidden="true" href="#what-you-should-deliver-to-the-statistician"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>What you should deliver to the statistician</h1>
+<p>To facilitate the most efficient and timely analysis this is the information you should pass to a statistician:</p>
+<ol>
+<li>The raw data.</li>
+<li>A <a href="http://vita.had.co.nz/papers/tidy-data.pdf" rel="nofollow">tidy data set</a></li>
+<li>A code book describing each variable and its values in the tidy data set.</li>
+<li>An explicit and exact recipe you used to go from 1 -&gt; 2,3</li>
+</ol>
+<p>Let's look at each part of the data package you will transfer.</p>
+<h3><a id="user-content-the-raw-data" class="anchor" aria-hidden="true" href="#the-raw-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>The raw data</h3>
+<p>It is critical that you include the rawest form of the data that you have access to. This ensures
+that data provenance can be maintained throughout the workflow.  Here are some examples of the
+raw form of data:</p>
+<ul>
+<li>The strange <a href="http://en.wikipedia.org/wiki/Binary_file" rel="nofollow">binary file</a> your measurement machine spits out</li>
+<li>The unformatted Excel file with 10 worksheets the company you contracted with sent you</li>
+<li>The complicated <a href="http://en.wikipedia.org/wiki/JSON" rel="nofollow">JSON</a> data you got from scraping the <a href="https://twitter.com/twitterapi" rel="nofollow">Twitter API</a></li>
+<li>The hand-entered numbers you collected looking through a microscope</li>
+</ul>
+<p>You know the raw data are in the right format if you:</p>
+<ol>
+<li>Ran no software on the data</li>
+<li>Did not modify any of the data values</li>
+<li>You did not remove any data from the data set</li>
+<li>You did not summarize the data in any way</li>
+</ol>
+<p>If you made any modifications of the raw data it is not the raw form of the data. Reporting modified data
+as raw data is a very common way to slow down the analysis process, since the analyst will often have to do a
+forensic study of your data to figure out why the raw data looks weird. (Also imagine what would happen if new data arrived?)</p>
+<h3><a id="user-content-the-tidy-data-set" class="anchor" aria-hidden="true" href="#the-tidy-data-set"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>The tidy data set</h3>
+<p>The general principles of tidy data are laid out by <a href="http://had.co.nz/" rel="nofollow">Hadley Wickham</a> in <a href="http://vita.had.co.nz/papers/tidy-data.pdf" rel="nofollow">this paper</a>
+and <a href="http://vimeo.com/33727555" rel="nofollow">this video</a>. While both the paper and the video describe tidy data using <a href="http://www.r-project.org/" rel="nofollow">R</a>, the principles
+are more generally applicable:</p>
+<ol>
+<li>Each variable you measure should be in one column</li>
+<li>Each different observation of that variable should be in a different row</li>
+<li>There should be one table for each "kind" of variable</li>
+<li>If you have multiple tables, they should include a column in the table that allows them to be joined or merged</li>
+</ol>
+<p>While these are the hard and fast rules, there are a number of other things that will make your data set much easier
+to handle. First is to include a row at the top of each data table/spreadsheet that contains full row names.
+So if you measured age at diagnosis for patients, you would head that column with the name <code>AgeAtDiagnosis</code> instead
+of something like <code>ADx</code> or another abbreviation that may be hard for another person to understand.</p>
+<p>Here is an example of how this would work from genomics. Suppose that for 20 people you have collected gene expression measurements with
+<a href="http://en.wikipedia.org/wiki/RNA-Seq" rel="nofollow">RNA-sequencing</a>. You have also collected demographic and clinical information
+about the patients including their age, treatment, and diagnosis. You would have one table/spreadsheet that contains the clinical/demographic
+information. It would have four columns (patient id, age, treatment, diagnosis) and 21 rows (a row with variable names, then one row
+for every patient). You would also have one spreadsheet for the summarized genomic data. Usually this type of data
+is summarized at the level of the number of counts per exon. Suppose you have 100,000 exons, then you would have a
+table/spreadsheet that had 21 rows (a row for gene names, and one row for each patient) and 100,001 columns (one row for patient
+ids and one row for each data type).</p>
+<p>If you are sharing your data with the collaborator in Excel, the tidy data should be in one Excel file per table. They
+should not have multiple worksheets, no macros should be applied to the data, and no columns/cells should be highlighted.
+Alternatively share the data in a <a href="http://en.wikipedia.org/wiki/Comma-separated_values" rel="nofollow">CSV</a> or <a href="http://en.wikipedia.org/wiki/Tab-separated_values" rel="nofollow">TAB-delimited</a> text file. (Beware however that reading CSV files into Excel can sometimes lead to non-reproducible handling of date and time variables.)</p>
+<h3><a id="user-content-the-code-book" class="anchor" aria-hidden="true" href="#the-code-book"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>The code book</h3>
+<p>For almost any data set, the measurements you calculate will need to be described in more detail than you can or should sneak
+into the spreadsheet. The code book contains this information. At minimum it should contain:</p>
+<ol>
+<li>Information about the variables (including units!) in the data set not contained in the tidy data</li>
+<li>Information about the summary choices you made</li>
+<li>Information about the experimental study design you used</li>
+</ol>
+<p>In our genomics example, the analyst would want to know what the unit of measurement for each
+clinical/demographic variable is (age in years, treatment by name/dose, level of diagnosis and how heterogeneous). They
+would also want to know how you picked the exons you used for summarizing the genomic data (UCSC/Ensembl, etc.). They
+would also want to know any other information about how you did the data collection/study design. For example,
+are these the first 20 patients that walked into the clinic? Are they 20 highly selected patients by some characteristic
+like age? Are they randomized to treatments?</p>
+<p>A common format for this document is a Word file. There should be a section called "Study design" that has a thorough
+description of how you collected the data. There is a section called "Code book" that describes each variable and its
+units.</p>
+<h3><a id="user-content-how-to-code-variables" class="anchor" aria-hidden="true" href="#how-to-code-variables"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>How to code variables</h3>
+<p>When you put variables into a spreadsheet there are several main categories you will run into depending on their <a href="http://en.wikipedia.org/wiki/Statistical_data_type" rel="nofollow">data type</a>:</p>
+<ol>
+<li>Continuous</li>
+<li>Ordinal</li>
+<li>Categorical</li>
+<li>Missing</li>
+<li>Censored</li>
+</ol>
+<p>Continuous variables are anything measured on a quantitative scale that could be any fractional number. An example
+would be something like weight measured in kg. <a href="http://en.wikipedia.org/wiki/Ordinal_data" rel="nofollow">Ordinal data</a> are data that have a fixed, small (&lt; 100) number of levels but are ordered.
+This could be for example survey responses where the choices are: poor, fair, good. <a href="http://en.wikipedia.org/wiki/Categorical_variable" rel="nofollow">Categorical data</a> are data where there
+are multiple categories, but they aren't ordered. One example would be sex: male or female. This coding is attractive because it is self-documenting.  <a href="http://en.wikipedia.org/wiki/Missing_data" rel="nofollow">Missing data</a> are data
+that are unobserved and you don't know the mechanism. You should code missing values as <code>NA</code>. <a href="http://en.wikipedia.org/wiki/Censoring_(statistics)" rel="nofollow">Censored data</a> are data
+where you know the missingness mechanism on some level. Common examples are a measurement being below a detection limit
+or a patient being lost to follow-up. They should also be coded as <code>NA</code> when you don't have the data. But you should
+also add a new column to your tidy data called, "VariableNameCensored" which should have values of <code>TRUE</code> if censored
+and <code>FALSE</code> if not. In the code book you should explain why those values are missing. It is absolutely critical to report
+to the analyst if there is a reason you know about that some of the data are missing. You should also not <a href="http://en.wikipedia.org/wiki/Imputation_(statistics)" rel="nofollow">impute</a>/make up/
+throw away missing observations.</p>
+<p>In general, try to avoid coding categorical or ordinal variables as numbers. When you enter the value for sex in the tidy
+data, it should be "male" or "female". The ordinal values in the data set should be "poor", "fair", and "good" not 1, 2 ,3.
+This will avoid potential mixups about which direction effects go and will help identify coding errors.</p>
+<p>Always encode every piece of information about your observations using text. For example, if you are storing data in Excel and use a form of colored text or cell background formatting to indicate information about an observation ("red variable entries were observed in experiment 1.") then this information will not be exported (and will be lost!) when the data is exported as raw text.  Every piece of data should be encoded as actual text that can be exported.</p>
+<h3><a id="user-content-the-instruction-listscript" class="anchor" aria-hidden="true" href="#the-instruction-listscript"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>The instruction list/script</h3>
+<p>You may have heard this before, but <a href="http://www.sciencemag.org/content/334/6060/1226" rel="nofollow">reproducibility is a big deal in computational science</a>.
+That means, when you submit your paper, the reviewers and the rest of the world should be able to exactly replicate
+the analyses from raw data all the way to final results. If you are trying to be efficient, you will likely perform
+some summarization/data analysis steps before the data can be considered tidy.</p>
+<p>The ideal thing for you to do when performing summarization is to create a computer script (in <code>R</code>, <code>Python</code>, or something else)
+that takes the raw data as input and produces the tidy data you are sharing as output. You can try running your script
+a couple of times and see if the code produces the same output.</p>
+<p>In many cases, the person who collected the data has incentive to make it tidy for a statistician to speed the process
+of collaboration. They may not know how to code in a scripting language. In that case, what you should provide the statistician
+is something called <a href="http://en.wikipedia.org/wiki/Pseudocode" rel="nofollow">pseudocode</a>. It should look something like:</p>
+<ol>
+<li>Step 1 - take the raw file, run version 3.1.2 of summarize software with parameters a=1, b=2, c=3</li>
+<li>Step 2 - run the software separately for each sample</li>
+<li>Step 3 - take column three of outputfile.out for each sample and that is the corresponding row in the output data set</li>
+</ol>
+<p>You should also include information about which system (Mac/Windows/Linux) you used the software on and whether you
+tried it more than once to confirm it gave the same results. Ideally, you will run this by a fellow student/labmate
+to confirm that they can obtain the same output file you did.</p>
+<h1><a id="user-content-what-you-should-expect-from-the-analyst" class="anchor" aria-hidden="true" href="#what-you-should-expect-from-the-analyst"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>What you should expect from the analyst</h1>
+<p>When you turn over a properly tidied data set it dramatically decreases the workload on the statistician. So hopefully
+they will get back to you much sooner. But most careful statisticians will check your recipe, ask questions about
+steps you performed, and try to confirm that they can obtain the same tidy data that you did with, at minimum, spot
+checks.</p>
+<p>You should then expect from the statistician:</p>
+<ol>
+<li>An analysis script that performs each of the analyses (not just instructions)</li>
+<li>The exact computer code they used to run the analysis</li>
+<li>All output files/figures they generated.</li>
+</ol>
+<p>This is the information you will use in the supplement to establish reproducibility and precision of your results. Each
+of the steps in the analysis should be clearly explained and you should ask questions when you don't understand
+what the analyst did. It is the responsibility of both the statistician and the scientist to understand the statistical
+analysis. You may not be able to perform the exact analyses without the statistician's code, but you should be able
+to explain why the statistician performed each step to a labmate/your principal investigator.</p>
+<h1><a id="user-content-contributors" class="anchor" aria-hidden="true" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.775 3.275C7.64252 3.41717 7.57039 3.60522 7.57382 3.79952C7.57725 3.99382 7.65596 4.1792 7.79337 4.31662C7.93079 4.45403 8.11617 4.53274 8.31047 4.53617C8.50477 4.5396 8.69282 4.46748 8.835 4.335L10.085 3.085C10.2708 2.89918 10.4914 2.75177 10.7342 2.65121C10.977 2.55064 11.2372 2.49888 11.5 2.49888C11.7628 2.49888 12.023 2.55064 12.2658 2.65121C12.5086 2.75177 12.7292 2.89918 12.915 3.085C13.1008 3.27082 13.2482 3.49142 13.3488 3.7342C13.4493 3.97699 13.5011 4.23721 13.5011 4.5C13.5011 4.76279 13.4493 5.023 13.3488 5.26579C13.2482 5.50857 13.1008 5.72917 12.915 5.915L10.415 8.415C10.2292 8.60095 10.0087 8.74847 9.76588 8.84911C9.52308 8.94976 9.26283 9.00157 9 9.00157C8.73716 9.00157 8.47691 8.94976 8.23411 8.84911C7.99132 8.74847 7.77074 8.60095 7.585 8.415C7.44282 8.28252 7.25477 8.21039 7.06047 8.21382C6.86617 8.21725 6.68079 8.29596 6.54337 8.43337C6.40596 8.57079 6.32725 8.75617 6.32382 8.95047C6.32039 9.14477 6.39252 9.33282 6.525 9.475C6.85001 9.80004 7.23586 10.0579 7.66052 10.2338C8.08518 10.4097 8.54034 10.5002 9 10.5002C9.45965 10.5002 9.91481 10.4097 10.3395 10.2338C10.7641 10.0579 11.15 9.80004 11.475 9.475L13.975 6.975C14.6314 6.31858 15.0002 5.4283 15.0002 4.5C15.0002 3.57169 14.6314 2.68141 13.975 2.025C13.3186 1.36858 12.4283 0.999817 11.5 0.999817C10.5717 0.999817 9.68141 1.36858 9.02499 2.025L7.775 3.275ZM3.085 12.915C2.89904 12.7292 2.75152 12.5087 2.65088 12.2659C2.55023 12.0231 2.49842 11.7628 2.49842 11.5C2.49842 11.2372 2.55023 10.9769 2.65088 10.7341C2.75152 10.4913 2.89904 10.2707 3.085 10.085L5.585 7.585C5.77074 7.39904 5.99132 7.25152 6.23411 7.15088C6.47691 7.05023 6.73716 6.99842 7 6.99842C7.26283 6.99842 7.52308 7.05023 7.76588 7.15088C8.00867 7.25152 8.22925 7.39904 8.415 7.585C8.55717 7.71748 8.74522 7.7896 8.93952 7.78617C9.13382 7.78274 9.3192 7.70403 9.45662 7.56662C9.59403 7.4292 9.67274 7.24382 9.67617 7.04952C9.6796 6.85522 9.60748 6.66717 9.475 6.525C9.14999 6.19995 8.76413 5.94211 8.33947 5.7662C7.91481 5.59029 7.45965 5.49974 7 5.49974C6.54034 5.49974 6.08518 5.59029 5.66052 5.7662C5.23586 5.94211 4.85001 6.19995 4.525 6.525L2.025 9.02499C1.36858 9.68141 0.999817 10.5717 0.999817 11.5C0.999817 12.4283 1.36858 13.3186 2.025 13.975C2.68141 14.6314 3.57169 15.0002 4.5 15.0002C5.4283 15.0002 6.31858 14.6314 6.975 13.975L8.225 12.725C8.35748 12.5828 8.4296 12.3948 8.42617 12.2005C8.42274 12.0062 8.34403 11.8208 8.20662 11.6834C8.0692 11.546 7.88382 11.4672 7.68952 11.4638C7.49522 11.4604 7.30717 11.5325 7.165 11.665L5.915 12.915C5.72925 13.1009 5.50867 13.2485 5.26588 13.3491C5.02308 13.4498 4.76283 13.5016 4.5 13.5016C4.23716 13.5016 3.97691 13.4498 3.73411 13.3491C3.49132 13.2485 3.27074 13.1009 3.085 12.915Z"></path></svg></a>Contributors</h1>
+<ul>
+<li><a href="http://biostat.jhsph.edu/~jleek/" rel="nofollow">Jeff Leek</a> - Wrote the initial version.</li>
+<li><a href="http://bit.ly/LColladoTorres" rel="nofollow">L. Collado-Torres</a> - Fixed typos, added links.</li>
+<li><a href="http://people.umass.edu/nick/" rel="nofollow">Nick Reich</a> - Added tips on storing data as text.</li>
+<li><a href="https://www.amherst.edu/people/facstaff/nhorton" rel="nofollow">Nick Horton</a> - Minor wording suggestions.</li>
+</ul>
+</article>
+      </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2020 GitHub, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" async="async" integrity="sha512-WcQmT2vhcClFVOaaAJV/M+HqsJ2Gq/myvl6F3gCVBxykazXTs+i5fvxncSXwyG1CSfcrqmLFw/R/bmFYzprX2A==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-59c4264f.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-Y86V8OBlvF6I/7e56GKOOt80Yg1RTGA09uqFFX18aiBtevLbKGxB7sVpCn79fukppFIBqyBTB/s6l0Bhn0kidQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-63ce95f0.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-W/Z2I9q6YKINknRzZ2Zzw02d+fK1asPVyLiNEfmQ+16M7dKnjghpXCTWTZDONLw3Wa1cU68eEFnJex44Wyj/og==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-5bf67623.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-kuQtl2H1vsQQzQYmzfNRDKBKnqomjaKNZQmGwS6OrUkrvClS2RVeKyy3B88Psl0kaEq+wwaKEf9RbAsNHO7YOw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-92e42d97.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-5CkBpZbYBks/pmGcGjurqVBKdv9PvR7D65HqMwQywMFbZZXqPmbwrxSZUjx9JO/yi+YllEAMEg6fXlTuw/vaQQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-e42901a5.js"></script>
+    
+        <script crossorigin="anonymous" async="async" integrity="sha512-4GcSWGoe36+BoWho4gtJcByZe8j43w+lt2/PDe3rmBxRVSgD29YipDwuIywe8fvOd2b2CszBqaPGxSznUtE3Xg==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-e0671258.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-3Vk1NFIOm+TBUMM6pTA6DCUwwLLnc/QIT8jpENm71InvSU8O4p2plDagpst1tH1l+9jOBnneaXZnAskA9a2b3w==" type="application/javascript" data-module-id="./gist-vendor.js" data-src="https://github.githubassets.com/assets/gist-vendor-dd593534.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-urN6bhHnHu4C12A+cTH3dOp+CwLaycy2HUXr95hvu5pbYRdF8z6iR+UQcTZutQ6mZG3Njluw2MTZVCNmwcqh8g==" type="application/javascript" data-module-id="./randomColor.js" data-src="https://github.githubassets.com/assets/randomColor-bab37a6e.js"></script>
+    
+    
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+
+  </body>
+</html>
+
